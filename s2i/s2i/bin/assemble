@@ -27,4 +27,4 @@ echo "---> Building application from source..."
 
 set -xe
 
-ls -lart
+ls -larti
